@@ -27,6 +27,6 @@ All functions created were commented thoroughly for ease of understanding
 
 Resources Used:
 
--Beautiful Soup Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
--Requests Documentation: https://docs.python-requests.org/en/master/
--Reading Relative File Paths in Python: https://www.youtube.com/watch?v=B3M1bQD1Xyk&pp=sAQA
+- Beautiful Soup Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- Requests Documentation: https://docs.python-requests.org/en/master/
+- Reading Relative File Paths in Python: https://www.youtube.com/watch?v=B3M1bQD1Xyk&pp=sAQA

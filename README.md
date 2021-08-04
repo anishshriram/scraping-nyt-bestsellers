@@ -1,7 +1,5 @@
 # Scraping Bestselling Books on the NYT Bestselling List
 
-TODO:
-
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.
 
 The New York Times puts out a bestsellers list of books doing well. It can be helpful to get some information from the site to get good books to read.
